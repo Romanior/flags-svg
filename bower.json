@@ -1,0 +1,22 @@
+{
+  "name": "flag-svg-collection",
+  "version": "1.0.3",
+  "homepage": "https://github.com/ducin/flag-svg-collection",
+  "authors": [
+    "Tomasz Ducin <tomasz.ducin@gmail.com>"
+  ],
+  "description": "Collection of SVG flags",
+  "main": "README.md",
+  "keywords": [
+    "flag",
+    "svg"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
